@@ -1,1 +1,3 @@
-# nurfentris-s-dikum
+NAMA : NURFENTRIS S DIKUM 
+NIM : 531421008
+KELAS : A
